@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Experience"
-subtitle = ""
+subtitle = "and awards"
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -18,27 +18,37 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Glass and Jamming Physics: Advisor Eric Corwin"
+  company = "corwinLab"
+  company_url =  "corwinlab.uoregon.edu"
+  location = "University of Oregon"
+  date_start = "2017-06-01"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  Numerically probing simulated glasses and jammed systems. Searching for mean-field
+  glassy behaviors in finite-size soft athermal jammed particle configurations.
+  Fundamental jamming physics.
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
+  title = "Teaching"
+  company = "University of Oregon"
+  company_url = "uoregon.edu"
+  location = "Eugene Oregon"
   date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  date_end = ""
+  description = """
+  intoductory physics labs\n
+  electronics\n
+  electricity and magnetism\n
+  modern physics\n
+  """
+[[experience]]
+  title = "2019 ArtSci Oregon Research As Art Winner"
+  company = "ArtSci Oregon"
+  company_url = "artscioregon.com"
+  location = "Eugene Oregon"
+  date_start = "2019-10-24"
+  date_end = "2019-11-26"
 
 +++

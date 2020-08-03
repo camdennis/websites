@@ -27,12 +27,15 @@ interests:
 
 education:
   courses:
+  - course: PhD in Physics
+    institution: University of Oregon
+    year: 2016-Present
   - course: BA in Physics
     institution: Wabash College (Indiana)
-    year: 2016
+    year: 2012-2016
   - course: BA in Mathematics
     institution: Wabash College (Indiana)
-    year: 2016
+    year: 2012-2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
