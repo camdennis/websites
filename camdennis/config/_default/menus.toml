@@ -24,6 +24,11 @@
   weight = 40
 
 [[main]]
+  name = "Puzzles"
+  url = "/sudoku/sudoku.html"
+  weight = 50
+
+[[main]]
   name = "Contact"
   url = "#contact"
   weight = 60
