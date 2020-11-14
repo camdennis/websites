@@ -42,6 +42,7 @@ date_format = "Jan 2006"
   electronics\n
   electricity and magnetism\n
   modern physics\n
+  thermal physics
   """
 [[experience]]
   title = "2019 ArtSci Oregon Research As Art Winner"
