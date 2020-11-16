@@ -17,7 +17,7 @@ subtitle = ""
 [[feature]]
   icon = "python"
   icon_pack = "fab"
-  name = "python"
+  name = "Python"
 #  description = "90%"
 
 [[feature]]
@@ -29,7 +29,7 @@ subtitle = ""
 [[feature]]
   icon = "code"
   icon_pack = "fas"
-  name = "fortran"
+  name = "Fortran"
 #  description = "90%"
 
 [[feature]]
@@ -47,7 +47,7 @@ subtitle = ""
 [[feature]]
   icon = "laptop-code"
   icon_pack = "fas"
-  name = "CUDA & parallel computing"
+  name = "CUDA & Parallel Computing"
 #  description = "10%"
 
 # Uncomment to use emoji icons.

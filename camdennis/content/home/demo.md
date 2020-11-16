@@ -50,7 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 
-Welcome to the personal website for **Cam Dennis**!
+Welcome to my personal website!
 
 The primary focus of this site is to act as a personal CV, to share my research
 interests and endeavors, and to share other things I love with the world.

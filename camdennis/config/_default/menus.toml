@@ -25,7 +25,7 @@
 
 [[main]]
   name = "Puzzles"
-  url = "/sudoku/sudoku.html"
+  url = "landing/"
   weight = 50
 
 [[main]]
