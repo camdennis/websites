@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url =  "https://www.wabash.edu"
   date_start = "2015-05-01"
   date_end = "2015-05-01"
-  description = """to that undergraduate who is judged to have produced the most original and meritorious piece of work, whether artistic or analytical.
+  description = """Awarded to that undergraduate who is judged to have produced the most original and meritorious piece of work, whether artistic or analytical.
   """
 
 [[experience]]
