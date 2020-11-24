@@ -3,7 +3,7 @@ title: "Phistomefel Tribute"
 date: 2020-11-13
 weight: 1
 ---
-The intention is for you to use the 8x8 version of Phistomefel's theorem. Which, as far as I know, is a novel concept. If you can do that, this puzzle is much simpler (as far as I can tell). However, it is possible to solve this puzzle without the theorem.
+The intention is for you to use the 8x8 version of Phistomefel's theorem. Which, as far as I know, is a novel concept. If you can do that, this puzzle is much simpler. However, it is possible to solve this puzzle without the theorem.
 Here is an explanation image:
 
 ![Example](example.png)

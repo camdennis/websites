@@ -1,7 +1,6 @@
 ---
 title: "Dionysian Packing"
 date: 2020-07-20T12:52:34-07:00
-images: ["/media/dionysian-packing.gif"]
 weight: 1
 ---
 {{< youtube M62Fewh-dHw >}}
