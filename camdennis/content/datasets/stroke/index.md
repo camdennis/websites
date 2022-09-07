@@ -24,7 +24,7 @@ url_dataset: "https://www.camdennis.com/datasets/stroke/strokeDataset.npy"
 url_poster:
 url_project:
 url_slides:
-url_source:
+url_source: "https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset"
 url_video:
 
 # Featured image
