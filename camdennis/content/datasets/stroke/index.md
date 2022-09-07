@@ -18,9 +18,9 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "strokeData.dat"
+url_pdf:
 url_code:
-url_dataset:
+url_dataset: "strokeData.dat"
 url_poster:
 url_project:
 url_slides:
@@ -40,7 +40,6 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: ["dionysian-packing"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
