@@ -20,7 +20,7 @@ featured: false
 
 url_pdf:
 url_code:
-url_dataset: "strokeData.dat"
+url_dataset: "https://www.camdennis.com/datasets/stroke/strokeDataset.npy"
 url_poster:
 url_project:
 url_slides:
