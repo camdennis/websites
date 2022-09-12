@@ -26,6 +26,7 @@ url_project:
 url_slides:
 url_source: "https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset"
 url_video:
+url_README: "https://www.camdennis.com/datasets/heartAttack/README.txt"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
