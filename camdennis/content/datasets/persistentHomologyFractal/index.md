@@ -20,7 +20,7 @@ featured: false
 
 url_pdf:
 url_code:
-url_dataset: "https://www.camdennis.com/datasets/persistentHomology/persistenceDataFractal.npy"
+url_dataset: "https://www.camdennis.com/datasets/persistentHomologyFractal/persistenceDataFractal.npy"
 url_poster:
 url_project:
 url_slides:
