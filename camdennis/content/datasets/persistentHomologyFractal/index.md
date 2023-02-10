@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Persistent Homology Dataset"
+title: "Persistent Homology Fractal Dataset"
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -20,7 +20,7 @@ featured: false
 
 url_pdf:
 url_code:
-url_dataset: "https://www.camdennis.com/datasets/persistentHomology/persistenceData.npy"
+url_dataset: "https://www.camdennis.com/datasets/persistentHomology/persistenceDataFractal.npy"
 url_poster:
 url_project:
 url_slides:
