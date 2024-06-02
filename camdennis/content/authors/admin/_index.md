@@ -10,11 +10,13 @@ authors:
 superuser: true
 
 # Role/position
-role: Soft Condensed Matter Physics PhD Student
+role: Soft Condensed Matter Physics Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: University of Oregon
+- name: University of Pennsylvania
+  url: ""
+- name: Syracuse University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -22,14 +24,15 @@ bio: My research interests include glasses, soft condensed matter, jamming, simu
 
 interests:
 - Simulations
-- Glasses and Non-equilibrium Thermodynamics
-- Jamming and Soft Spheres
+- Glasses and Non-equilibrium Thermal Physics
+- Jamming
+- Chaos
 
 education:
   courses:
   - course: PhD in Physics
     institution: University of Oregon
-    year: 2016-Present
+    year: 2016-2021
   - course: BA in Physics
     institution: Wabash College (Indiana)
     year: 2012-2016
@@ -64,10 +67,10 @@ user_groups:
 - Visitors
 ---
 
-Cam Dennis is a student currently working toward his PhD at the University of Oregon in Eric Corwin's lab.
-As the senior graduate student in this lab, Cam spends much of his time persuing many projects and research
-directions in the fields of glasses, jamming, and non-equilibrium thermodynamics. The idea of cracking the
+Cam Dennis is a postdoc currently working at the University of Pennsylvania under the advisement of Andrea Liu and Lisa Manning at Syracuse University.
+Cam spends much of his time persuing projects and research
+directions in the field non-equilibrium thermodynamics. The idea of cracking the
 glass problem is at the root of most of his research endeavors and he boasts progress in meeting that goal.
 
-When he is not working on research puzzles, Cam enjoys solving and creating puzzles, such as sudoku, for leisure.
+When he is not working on research puzzles, Cam enjoys solving and creating puzzles, such as Sudoku, for leisure.
 He is also an aquarist and avid rock climbing enthusiast.
