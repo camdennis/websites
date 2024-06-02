@@ -52,7 +52,7 @@ subtitle = ""
 
 Welcome to my personal website!
 
-The primary focus of this site is to act as a personal CV, to share my research
-interests and endeavors, and to share other things I love with the world.
+The primary focus of this site is to act as a personal CV and to share my research
+interests and endeavors.
 
 Feel free to explore the tabs above and contact me with any questions or comments.
