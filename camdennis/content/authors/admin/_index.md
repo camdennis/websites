@@ -22,7 +22,7 @@ bio: My research interests include glasses, soft condensed matter, jamming, simu
 
 interests:
 - Simulations
-- Glasses and Nonequilibrium Thermodynamics
+- Glasses and Non-equilibrium Thermodynamics
 - Jamming and Soft Spheres
 
 education:
