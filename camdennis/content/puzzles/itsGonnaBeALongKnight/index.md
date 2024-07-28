@@ -1,5 +1,5 @@
 ---
-title: "4x4 Magic Square"
+title: "It's Gonna Be A Long Knight"
 date: 2021-02-16
 weight: 1
 ---
