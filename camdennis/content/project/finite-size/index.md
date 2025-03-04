@@ -1,7 +1,27 @@
 ---
-title: "Finite Size Effects of Jammed Configurations"
+title: "Finite-Size Effects in Jammed Configurations"
 date: 2020-07-20T12:52:34-07:00
 weight: 3
 ---
-Jamming criticality defines a universality class that includes systems as diverse as glasses, colloids, foams, amorphous solids, constraint satisfaction problems, neural networks, etc. A peculiarly interesting feature of this class is that small interparticle forces (f) and gaps (h) are distributed according to non-trivial power laws. A recently developed mean-field (MF) theory predicts the characteristic exponents of these distributions in the limit of very high spatial dimension, d approaches infinity, and, remarkably, their values seemingly agree with numerical estimates in physically relevant dimensions, d=2 and 3.
-These exponents are further connected through a pair of inequalities derived from stability conditions, and both theoretical predictions and previous numerical investigations suggest that these inequalities are saturated. Systems at the jamming point are thus only marginally stable. Despite the key physical role played by these exponents, their systematic evaluation has remained elusive. Here, we carefully test their value by analyzing the finite-size scaling of the distributions of f and h for various particle-based models for jamming. Both dimension and the direction of approach to the jamming point are also considered. We show that, in all models, finite-size effects are much more pronounced in the distribution of h than in that of f. We thus conclude that gaps are correlated over considerably longer scales than forces. Additionally, remarkable agreement with MF predictions is obtained in all but one model, near-crystalline packings. Our results thus help to better delineate the domain of the jamming universality class. We furthermore uncover a secondary linear regime in the distribution tails of both  f and h. This surprisingly robust feature is thought to follow from the (near) isostaticity of our configurations.
+
+## Investigating Finite-Size Effects in Jammed Systems
+
+Jamming criticality encompasses a range of systems, from glasses and colloids to foams and neural networks. A notable characteristic of this phenomenon is the emergence of power-law distributions in small interparticle forces \(f\) and gaps \(h\).
+
+Recent mean-field (MF) theories predict these distributions' exponents in the limit of infinite spatial dimensions \(d \to \infty\). Surprisingly, these predictions align closely with numerical results in two and three dimensions. Stability considerations further suggest that these systems are marginally stable at the jamming threshold.
+
+### Key Findings from Recent Research
+
+A comprehensive study by Charbonneau et al. examined finite-size scaling in various particle-based jamming models. Their analysis revealed:
+
+- **Pronounced Finite-Size Effects in Gaps**: The distribution of gaps \(h\) exhibits more significant finite-size effects than that of forces \(f\), indicating longer-range correlations for gaps.
+
+- **Consistency Across Models**: Except for near-crystalline packings, all models studied showed remarkable agreement with MF predictions, reinforcing the robustness of these theoretical frameworks.
+
+- **Secondary Linear Regime**: Both force and gap distributions display a secondary linear regime in their tails, a feature attributed to the near-isostatic nature of the configurations.
+
+### Implications for the Jamming Universality Class
+
+These findings enhance our understanding of the jamming transition, highlighting the influence of system size on critical properties. By delineating the finite-size effects, this research offers deeper insights into the universal aspects of jamming phenomena.
+
+For a detailed exploration, refer to the full study: [Finite-Size Effects in the Microscopic Critical Properties of Jammed Configurations](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.104.014605).

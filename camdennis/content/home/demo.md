@@ -50,9 +50,6 @@ subtitle = ""
  css_class = ""
 +++
 
-Welcome to my personal website!
+Welcome to my personal website! This site serves as a hub for my research, publications, and academic journey. My work focuses on the physics of jammed systems, glassy materials, and complex energy landscapes.
 
-The primary focus of this site is to act as a personal CV and to share my research
-interests and endeavors.
-
-Feel free to explore the tabs above and contact me with any questions or comments.
+Feel free to explore the sections above to learn more about my research, publications, and interests. Don’t hesitate to reach out if you have any questions or would like to collaborate!

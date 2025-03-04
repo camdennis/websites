@@ -6,64 +6,54 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Skills"
-subtitle = ""
+subtitle = "Technical & Analytical Expertise"
 
 # Showcase personal skills or business features.
-#
-# Add/remove as many `[[feature]]` blocks below as you like.
-#
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-
 [[feature]]
   icon = "python"
   icon_pack = "fab"
-  name = "Python"
-#  description = "90%"
+  name = "Python & Scientific Computing"
+  description = "Extensive experience with NumPy, SciPy, pandas, and optimization libraries."
 
 [[feature]]
   icon = "cuttlefish"
   icon_pack = "fab"
-  name = "C++"
-#  description = "90%"
+  name = "C++ & High-Performance Computing"
+  description = "Proficient in performance-critical applications, including OpenMP and pybind11."
 
 [[feature]]
   icon = "code"
   icon_pack = "fas"
-  name = "Fortran"
-#  description = "90%"
+  name = "Fortran & Legacy Code Optimization"
+  description = "Skilled in maintaining and optimizing scientific codebases."
 
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistical Mechanics"
-#  description = "100%"  
-
-[[feature]]
-  icon = "book-open"
-  icon_pack = "fas"
-  name = "Research"
-#  description = "10%"
+  name = "Statistical Mechanics & Complex Systems"
+  description = "Expertise in modeling disordered systems, phase transitions, and stochastic processes."
 
 [[feature]]
   icon = "laptop-code"
   icon_pack = "fas"
   name = "CUDA & Parallel Computing"
-#  description = "10%"
+  description = "Experience in GPU acceleration for large-scale simulations."
 
-# Uncomment to use emoji icons.
-# [[feature]]
-#  icon = ":smile:"
-#  icon_pack = "emoji"
-#  name = "Emojiness"
-#  description = "100%"  
+[[feature]]
+  icon = "brain"
+  icon_pack = "fas"
+  name = "Machine Learning & Data Science"
+  description = "Experience with TensorFlow, PyTorch, Bayesian inference, and time-series analysis."
 
-# Uncomment to use custom SVG icons.
-# Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
-# Reference the SVG icon name (without `.svg` extension) in the `icon` field.
-# [[feature]]
-#  icon = "your-custom-icon-name"
-#  icon_pack = "custom"
-#  name = "Surfing"
-#  description = "90%"
+[[feature]]
+  icon = "chart-bar"
+  icon_pack = "fas"
+  name = "Quantitative Finance & Risk Analysis"
+  description = "Understanding of options pricing, Monte Carlo methods, and statistical arbitrage."
 
+[[feature]]
+  icon = "chalkboard-teacher"
+  icon_pack = "fas"
+  name = "Teaching & Mentorship"
+  description = "Experienced in leading courses, mentoring students, and interdisciplinary research collaboration."
 +++

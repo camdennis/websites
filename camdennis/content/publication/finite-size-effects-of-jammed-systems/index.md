@@ -4,7 +4,9 @@
 title: "Finite size effects in the microscopic critical properties of jammed configurations: a comprehensive study of the effects of different types of disorder"
 authors: ["Patrick Charbonneau","Eric Corwin","Cameron Dennis","Rafael Dıaz Hernandez Rojas","Harukuni  Ikeda","Giorgio  Parisi", and  "Federico  Ricci-Tersengh"]
 date: 2020-11-20T09:40:21-07:00
-doi: ""
+url_pdf: "https://arxiv.org/pdf/2011.10899.pdf"
+projects: ["finite-size-effects-of-jammed-systems"]
+doi: "10.1103/PhysRevE.104.014102"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-09-02T09:40:21-07:00

@@ -36,14 +36,9 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.124.078002"
-url_code:
-url_dataset:
-url_poster:
-url_project:
-url_slides:
-url_source:
-url_video:
+url_pdf: "https://arxiv.org/pdf/1910.03567.pdf"
+projects: ["hierarchical-jamming"]
+doi: "10.1103/PhysRevLett.124.078002"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
