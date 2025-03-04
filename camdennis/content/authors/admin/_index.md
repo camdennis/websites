@@ -47,7 +47,7 @@ social:
   link: https://github.com/camdennis
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/cameron-dennis
+  link: https://www.linkedin.com/in/cameron-dennis-992496252/
 
 # Resume/CV Link
 - icon: file-pdf
@@ -82,8 +82,8 @@ I am actively seeking roles in **quantitative finance, data science, or academia
 ## Research & Publications
 I have published in top-tier journals, including **Physical Review Letters** and **Physical Review E**, on topics ranging from **energy landscapes in jammed systems** to **machine-learned softness in granular materials**.
 
-For my full list of publications, visit my [Google Scholar](https://scholar.google.com) profile.
+For my full list of publications, visit my [Google Scholar](https://scholar.google.com/citations?user=Sy2PcxoAAAAJ&hl=en) profile.
 
 ## Contact
-Interested in working together? **Let’s connect!** Feel free to reach out via [email](mailto:cam@camdennis.com) or [LinkedIn](https://www.linkedin.com/in/cameron-dennis).
+Interested in working together? **Let’s connect!** Feel free to reach out via [email](mailto:cam@camdennis.com) or [LinkedIn](https://www.linkedin.com/in/cameron-dennis-992496252/).
 
