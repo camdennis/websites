@@ -7,6 +7,7 @@ weight: 2
 url_pdf: "https://arxiv.org/pdf/2201.05711.pdf"
 projects: ["periodic-tiling"]
 doi: "10.1103/PhysRevE.106.044901"
+publication_types: ["2"]
 ---
 
 ## Abstract

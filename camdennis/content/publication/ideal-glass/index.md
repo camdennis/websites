@@ -5,6 +5,7 @@ weight: 1
 url_pdf: "https://arxiv.org/pdf/2404.07492.pdf"
 projects: ["ideal-glass"]
 doi: ""
+publication_types: ["2"]
 ---
 
 ## Abstract

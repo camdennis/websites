@@ -5,6 +5,7 @@ weight: 3
 url_pdf: "https://arxiv.org/pdf/2006.11415.pdf"
 projects: ["dionysian-packing"]
 doi: "10.1103/PhysRevLett.125.078001"
+publication_types: ["2"]
 ---
 
 ## Abstract

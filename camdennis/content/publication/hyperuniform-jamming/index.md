@@ -5,6 +5,7 @@ weight: 5
 url_pdf: "https://arxiv.org/pdf/2201.05711.pdf"
 projects: ["hyperuniform-jamming"]
 doi: "10.1103/PhysRevE.106.024903"
+publication_types: ["2"]
 ---
 
 ## Abstract

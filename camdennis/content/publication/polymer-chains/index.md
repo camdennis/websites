@@ -5,6 +5,7 @@ weight: 3
 url_pdf: "https://arxiv.org/pdf/2110.07793.pdf"
 projects: ["polymer-chains"]
 doi: ""
+publication_types: ["2"]
 ---
 
 ## Abstract
