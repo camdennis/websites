@@ -3,8 +3,6 @@ title: "Phistomefel Tribute"
 date: 2025-04-09
 weight: 18
 ---
-<img src="featured.png" alt="Puzzle Image">
-
 
 <p>Here is a very small and potentially very easy puzzle. The intention is for you to use the 8x8 version of Phistomefel's theorem. Which, as far as I know, is a novel concept. If you can do that, this puzzle is much simpler (as far as I can tell). However, it is almost certainly possible to solve this puzzle without the theorem!</p>
 <p>

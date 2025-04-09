@@ -3,8 +3,6 @@ title: "Arrows and Boxes"
 date: 2025-04-09
 weight: 13
 ---
-<img src="featured.png" alt="Puzzle Image">
-
 
 <p>It's been quite a while since I've made a puzzle because I've been so busy, but I've been really enjoying some of the gorgeous creations since my last submission. This is just a soft puzzle to share. Hopefully it's fun! :)</p>
 <p>

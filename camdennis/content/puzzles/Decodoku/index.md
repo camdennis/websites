@@ -3,8 +3,6 @@ title: "Decodoku"
 date: 2025-04-09
 weight: 7
 ---
-<img src="featured.png" alt="Puzzle Image">
-
 
 <p>This is an extremely easy coffee break puzzle, so it should be fun way to spend a few minutes.</p>
 <p>Ordinary sudoku rules apply. In addition, there are a few cages which once filled can be decoded. Take the two numbers in the cage and subtract 26 as many times as you can (take the caged number modulo 26). The result represents that letter of the english alphabet.

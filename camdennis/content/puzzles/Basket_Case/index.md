@@ -3,8 +3,6 @@ title: "Basket Case"
 date: 2025-04-09
 weight: 2
 ---
-<img src="featured.png" alt="Puzzle Image">
-
 
 <p>This puzzle is patterned after a square lattice or a plain weave.</p>
 <p>

@@ -3,8 +3,6 @@ title: "Farfalle"
 date: 2025-04-09
 weight: 3
 ---
-<img src="featured.png" alt="Puzzle Image">
-
 
 <p>I was surprised and delighted when putting together this puzzle. I hope you will be surprised and delighted too!</p>
 <p>

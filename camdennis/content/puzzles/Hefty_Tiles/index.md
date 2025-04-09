@@ -3,8 +3,6 @@ title: "Hefty Tiles"
 date: 2025-04-09
 weight: 10
 ---
-<img src="featured.png" alt="Puzzle Image">
-
 
 <p>Here's an easy little puzzle. I hope you enjoy.</p>
 <p>

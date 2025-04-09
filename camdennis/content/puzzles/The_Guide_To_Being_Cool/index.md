@@ -3,8 +3,6 @@ title: "The Guide To Being Cool"
 date: 2025-04-09
 weight: 7
 ---
-<img src="featured.png" alt="Puzzle Image">
-
 
 <p>Did you folks every draw this weird S thing growing up? This was a huge part of middle school culture in the US (at least for me). Here's the three steps for drawing this. Oh and it's also a puzzle. Enjoy!</p>
 <p>

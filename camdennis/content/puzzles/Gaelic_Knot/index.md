@@ -3,8 +3,6 @@ title: "Gaelic Knot"
 date: 2025-04-09
 weight: 3
 ---
-<img src="featured.png" alt="Puzzle Image">
-
 
 <p>Every puzzle I have posted so far has been an attempt at making inventive new variants. This is just a partial killer-little killer puzzle.</p>
 <p>

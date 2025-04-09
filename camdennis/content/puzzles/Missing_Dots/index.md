@@ -3,8 +3,6 @@ title: "Missing Dots"
 date: 2025-04-09
 weight: 6
 ---
-<img src="featured.png" alt="Puzzle Image">
-
 
 <p>I've always wanted to create a puzzle that makes heavy use of negative constraints. Let me know what you think of this puzzle. It might be an acquired taste.</p>
 <p>

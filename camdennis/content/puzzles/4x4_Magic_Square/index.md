@@ -3,8 +3,6 @@ title: "4x4 Magic Square"
 date: 2025-04-09
 weight: 16
 ---
-<img src="featured.png" alt="Puzzle Image">
-
 
 <div style="font-size:20px">
 Rules:

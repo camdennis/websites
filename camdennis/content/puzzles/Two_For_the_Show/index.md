@@ -3,8 +3,6 @@ title: "Two For the Show"
 date: 2025-04-09
 weight: 5
 ---
-<img src="featured.png" alt="Puzzle Image">
-
 
 <p>I've had this break-in idea for a while now. This is just a fun little puzzle. Nothing too extreme.</p>
 <p>

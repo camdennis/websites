@@ -3,8 +3,6 @@ title: "Decoding Killer"
 date: 2025-04-09
 weight: 19
 ---
-<img src="featured.png" alt="Puzzle Image">
-
 
 <p>Here is another decoding puzzle. Before you begin, it's important to note that this type of puzzle requires a firm grasp of the English language. I sincerely apologize if this excludes you. I promise to make many more puzzles in the future that are more inclusive.
 </p>

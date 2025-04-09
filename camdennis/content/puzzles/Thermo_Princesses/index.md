@@ -3,8 +3,6 @@ title: "Thermo Princesses"
 date: 2025-04-09
 weight: 12
 ---
-<img src="featured.png" alt="Puzzle Image">
-
 
 <p>This is the third in a series of puzzles with a constraint I call princesses. If you like this variant, feel free to check out the others. </p>
 <p>Ordinary sudoku rules apply. In addition, the number in a box tells you the minimum diagonal distance between another of the same number. In the below example, I have marked the boxes that cannot be 3's in magenta. You'll notice that 1's have no additional constraint and 9's will act like queens. Every other number will behave like something inbetween.

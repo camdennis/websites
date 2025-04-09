@@ -3,8 +3,6 @@ title: "Lucky Charms II"
 date: 2025-04-09
 weight: 1
 ---
-<img src="featured.png" alt="Puzzle Image">
-
 
 <p>Just a little (kinda hard) puzzle to keep you entertained if you're experiencing ridiculous weather like I am.</p>
 <p>

@@ -3,8 +3,6 @@ title: "Patchwork Puzzle"
 date: 2025-04-09
 weight: 17
 ---
-<img src="featured.png" alt="Puzzle Image">
-
 
 <p>
 The good news is that I cut all of my sudoku puzzles into jigsaw puzzles. The bad news is that I accidentally got them all mixed up. Here are nine pieces from nine different puzzles. Can you put them together to form a new puzzle that has a solution?

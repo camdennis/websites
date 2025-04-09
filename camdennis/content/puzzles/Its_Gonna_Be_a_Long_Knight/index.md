@@ -3,8 +3,6 @@ title: "It's Gonna Be a Long Knight"
 date: 2025-04-09
 weight: 15
 ---
-<img src="featured.png" alt="Puzzle Image">
-
 
 <p>The proper name for this puzzle's constraint probably has something to do with taxicab numbers, but I prefer "long knight." Essentially, this is a knight's move constraint with an extra cell. In the explanation image below, none of the green cells can be a 7.</p>
 <p>

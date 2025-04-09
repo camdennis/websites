@@ -3,8 +3,6 @@ title: "Another Frowning Fish"
 date: 2025-04-09
 weight: 8
 ---
-<img src="featured.png" alt="Puzzle Image">
-
 
 <p>I think this has an interesting solve path. I hope you enjoy :) Please let me know what you think. I always appreciate the comments!</p>
 <p>

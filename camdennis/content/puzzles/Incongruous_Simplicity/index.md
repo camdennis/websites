@@ -3,8 +3,6 @@ title: "Incongruous Simplicity"
 date: 2025-04-09
 weight: 4
 ---
-<img src="featured.png" alt="Puzzle Image">
-
 
 <p>I just sat down and made this. I've been working on something a little more fun, but wanted to play around in the meantime.</p>
 <p>

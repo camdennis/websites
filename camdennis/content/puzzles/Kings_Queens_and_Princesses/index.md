@@ -3,8 +3,6 @@ title: "Kings, Queens, and Princesses"
 date: 2025-04-09
 weight: 15
 ---
-<img src="featured.png" alt="Puzzle Image">
-
 
 <div style="font-size:20px">
 The numbers in this puzzle have a constraint I call anti-princess

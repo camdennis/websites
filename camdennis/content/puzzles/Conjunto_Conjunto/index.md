@@ -3,8 +3,6 @@ title: "Conjunto Conjunto"
 date: 2025-04-09
 weight: 11
 ---
-<img src="featured.png" alt="Puzzle Image">
-
 
 <p>As I always say, it's been a while since I've made a puzzle. Here's a fun little one. I hope you enjoy.</p>
 <p>

@@ -3,8 +3,6 @@ title: "Goldilocks Sudoku"
 date: 2025-04-09
 weight: 17
 ---
-<img src="featured.png" alt="Puzzle Image">
-
 
 <div style="font-size:14px">
 This is the Goldilock's puzzle. It has 3 solutions. The first and easiest solution is found after placing a 1 in the central gray box. Placing a 2 in the box gives a moderately difficult solve. Placing a 3 in the central box gives a difficult solve.

@@ -3,8 +3,6 @@ title: "276"
 date: 2025-04-09
 weight: 20
 ---
-<img src="featured.png" alt="Puzzle Image">
-
 
 <p>No complicated rules. Enjoy :)</p>
 <p>

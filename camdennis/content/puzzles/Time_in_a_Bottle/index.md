@@ -3,8 +3,6 @@ title: "Time in a Bottle"
 date: 2025-04-09
 weight: 8
 ---
-<img src="featured.png" alt="Puzzle Image">
-
 
 <p><b>If I could make days last forever</b></p>
 <p><b>If words could make wishes come true</b></p>

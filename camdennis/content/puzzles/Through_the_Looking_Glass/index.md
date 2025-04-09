@@ -3,8 +3,6 @@ title: "Through the Looking Glass"
 date: 2025-04-09
 weight: 6
 ---
-<img src="featured.png" alt="Puzzle Image">
-
 
 <p>As far as I know, this is a novel variant with some very interesting logic.</p>
 <p>

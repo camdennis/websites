@@ -3,8 +3,6 @@ title: "Shift-omefel's Theorem"
 date: 2025-04-09
 weight: 16
 ---
-<img src="featured.png" alt="Puzzle Image">
-
 
 <p>Here is a potentially easy puzzle. The intention is for you to use the shifted version of Phistomefel's theorem. @Narayana refers to Phistomefel's theorem as the Four Lines and Four Boxes theorem (FLFB) which I prefer as well. If you can figure out how to use this theorem, this puzzle is much simpler (as far as I can tell). However, it is almost certainly possible to solve this puzzle without the theorem!</p>
 <p>

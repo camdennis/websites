@@ -3,8 +3,6 @@ title: "Looking Glass Thermo"
 date: 2025-04-09
 weight: 5
 ---
-<img src="featured.png" alt="Puzzle Image">
-
 
 <p>My previous puzzle with this theme seemed to go over pretty well, so I've made another. Again, this one is not too terribly difficult, but I think quite fun.</p>
 <p>

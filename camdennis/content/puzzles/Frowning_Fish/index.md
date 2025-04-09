@@ -3,8 +3,6 @@ title: "Frowning Fish"
 date: 2025-04-09
 weight: 9
 ---
-<img src="featured.png" alt="Puzzle Image">
-
 
 <p>I've had this idea for a bit now and I finally got around to making the puzzle. I'm happy with it. Let me know what you think :)</p>
 <p>
