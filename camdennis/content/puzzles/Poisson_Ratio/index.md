@@ -1,6 +1,6 @@
 ---
 title: "Poisson Ratio"
-date: 2025-04-09
+date: 2022-12-23
 weight: 2
 ---
 
@@ -22,5 +22,5 @@ Ordinary Sudoku Rules Apply. Additionally:
 <p>That's it! Enjoy! :)
 You can play it <a href="https://tinyurl.com/3c4ru9hf">here</a>.
 
-<img src="/Dateien/bild.php?data=b79d9e38-21555-3030304345452d31"/>
+
 </p>

@@ -1,6 +1,6 @@
 ---
 title: "Phistomefel Tribute"
-date: 2025-04-09
+date: 2020-11-13
 weight: 18
 ---
 
@@ -8,7 +8,7 @@ weight: 18
 <p>
 Here is an explanation image.
 
-<img src="/Dateien/bild.php?data=086763fc-8762-30303034504e2d31"/>
+
 
 There are two version of Phistomefel's theorem that show up in this puzzle with non-square regions. In both sides of this image, the red and blue highlighted squares contain the same digits (red=blue). The proof for this follows from the original discovery. If you don't know what I'm talking about, see <a href="http://forum.logic-masters.de/showthread.php?tid=1811">here</a>.
 </p>
@@ -22,5 +22,5 @@ Ordinary Killer Rules Apply
 You can play it <a href="https://f-puzzles.com/?id=y5x43ct3">here</a>.
 
 Please let me know if you figured this out with or without using this technique! For added cred, do it both ways ;)
-<img src="/Dateien/bild.php?data=2a754794-8763-30303034504e2d32"/>
+
 </p>

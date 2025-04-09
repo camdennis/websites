@@ -1,6 +1,6 @@
 ---
 title: "Lucky Charms II"
-date: 2025-04-09
+date: 2023-07-20
 weight: 1
 ---
 
@@ -17,5 +17,5 @@ Ordinary Sudoku Rules Apply. Additionally:
 <p>That's it! Enjoy! :)
 You can play it <a href="https://tinyurl.com/luckyCharmsII">here</a>.
 
-<img src="/Dateien/bild.php?data=906d01fb-25205-303030454a422d31"/>
+
 </p>

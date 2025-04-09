@@ -1,6 +1,6 @@
 ---
 title: "Lucky Charms Sudoku"
-date: 2025-04-09
+date: 2020-07-26
 weight: 11
 ---
 
@@ -9,8 +9,8 @@ weight: 11
 
 All lucky charms are given (so negative constraints may be necessary).
 
-<img src="/Dateien/bild.php?data=8b8fd452-7364-30303033594e2d31"/>
+
 </p>
 <p>Here is the puzzle. Enjoy! :)
-<img src="/Dateien/bild.php?data=b8c7b090-7365-30303033594e2d32"/>
+
 </p>

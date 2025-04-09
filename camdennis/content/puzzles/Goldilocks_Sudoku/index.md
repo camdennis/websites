@@ -1,6 +1,6 @@
 ---
 title: "Goldilocks Sudoku"
-date: 2025-04-09
+date: 2020-06-09
 weight: 17
 ---
 
@@ -20,5 +20,5 @@ Enjoy!
 <strong>The puzzle:</strong>
 </div>
 <div style="clear:both;text-align:center">
-<img src="/Dateien/bild.php?data=65b2797b-6684-303030334c512d31"/>
+
 </div>

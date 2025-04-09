@@ -1,6 +1,6 @@
 ---
 title: "Through the Looking Glass"
-date: 2025-04-09
+date: 2020-09-01
 weight: 6
 ---
 
@@ -18,5 +18,5 @@ weight: 6
 This is really a very simple rule, but if you are confused by my explanation or have clarifying questions, please let me know.
 </p>
 <p>Here is the puzzle. Enjoy! :)
-<img src="/Dateien/bild.php?data=ee662ebf-7899-3030303438542d31"/>
+
 </p>

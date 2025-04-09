@@ -1,6 +1,6 @@
 ---
 title: "Incongruous Simplicity"
-date: 2025-04-09
+date: 2022-11-26
 weight: 4
 ---
 
@@ -17,5 +17,5 @@ Ordinary Sudoku Rules Apply. Additionally:
 <p>That's it! Enjoy! :)
 You can play it <a href="https://tinyurl.com/incongruoussimplicity">here</a>.
 
-<img src="/Dateien/bild.php?data=1b76f831-21132-3030304335332d31"/>
+
 </p>

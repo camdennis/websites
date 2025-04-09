@@ -1,6 +1,6 @@
 ---
 title: "Shift-omefel's Theorem"
-date: 2025-04-09
+date: 2021-01-05
 weight: 16
 ---
 
@@ -8,7 +8,7 @@ weight: 16
 <p>
 Here is an explanation image. The original theorem is shown where the numbers in the red regions are the same as the numbers in the blue region. However, one may shift the three leftmost columns to the right end of the puzzle to get a new theorem which still works. There are therefore several of these shifted theorems that may prove to be useful.
 
-<img src="/Dateien/bild.php?data=b437d4ca-9399-30303035334c2d31"/>
+
 
 If you don't know what I'm talking about, see <a href="http://forum.logic-masters.de/showthread.php?tid=1811">here</a>.
 </p>
@@ -24,5 +24,5 @@ Ordinary Partial Killer Rules Apply
 You can play it <a href="https://git.io/JLNcT">here</a>.
 
 Please let me know if you figured this out with or without using this technique! For added cred, do it both ways ;)
-<img src="/Dateien/bild.php?data=a728aaa6-9398-30303035334c2d32"/>
+
 </p></p>

@@ -1,6 +1,6 @@
 ---
 title: "Negative Space"
-date: 2025-04-09
+date: 2021-03-01
 weight: 14
 ---
 
@@ -14,5 +14,5 @@ Ordinary Killer Rules Apply
 <p>That's it! Enjoy! :)
 You can play it <a href="https://git.io/Jtppd">here</a>.
 
-<img src="/Dateien/bild.php?data=1c8c3b60-10229-303030354c342d31"/>
+
 </p>

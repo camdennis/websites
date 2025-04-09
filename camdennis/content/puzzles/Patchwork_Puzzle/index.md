@@ -1,6 +1,6 @@
 ---
 title: "Patchwork Puzzle"
-date: 2025-04-09
+date: 2021-01-03
 weight: 17
 ---
 
@@ -42,5 +42,5 @@ Additional notes: Note that there are two given digits. One of them is a 1. Addi
 </p>
 <p>
 Here is the puzzle! Enjoy!
-<img src="/Dateien/bild.php?data=4e1e5fc6-9386-3030303533332d31"/>
+
 </p>

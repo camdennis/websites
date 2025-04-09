@@ -1,6 +1,6 @@
 ---
 title: "Decodoku"
-date: 2025-04-09
+date: 2020-08-24
 weight: 7
 ---
 
@@ -15,5 +15,5 @@ Note: If you don't feel like converting numbers to letters, use this online <a h
 
 </p>
 <p>Here is the puzzle. Enjoy! :)
-<img src="/Dateien/bild.php?data=812b3daa-7789-3030303436532d31"/>
+
 </p>

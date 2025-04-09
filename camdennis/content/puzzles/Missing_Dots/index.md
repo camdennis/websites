@@ -1,6 +1,6 @@
 ---
 title: "Missing Dots"
-date: 2025-04-09
+date: 2022-07-09
 weight: 6
 ---
 
@@ -26,5 +26,5 @@ All such dots are given!
 <p>That's it! Enjoy! :)
 You can play it <a href="https://tinyurl.com/missingdots">here</a>.
 
-<img src="/Dateien/bild.php?data=32c1ce24-18298-30303041464d2d31"/>
+
 </p>

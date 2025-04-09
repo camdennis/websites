@@ -1,6 +1,6 @@
 ---
 title: "4x4 Magic Square"
-date: 2025-04-09
+date: 2020-06-09
 weight: 16
 ---
 
@@ -14,5 +14,5 @@ This magenta box is a 4x4 magic square that has been tilted 45 degrees. This mag
 <strong>The puzzle:</strong>
 </div>
 <div style="clear:both;text-align:center">
-<img src="/Dateien/bild.php?data=32bbc56a-6685-303030334c522d31"/>
+
 </div>

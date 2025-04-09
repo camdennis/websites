@@ -1,6 +1,6 @@
 ---
 title: "Looking Glass Thermo"
-date: 2025-04-09
+date: 2020-09-18
 weight: 5
 ---
 
@@ -18,5 +18,5 @@ weight: 5
 This is really a very simple rule, but if you are confused by my explanation or have clarifying questions, please let me know.
 </p>
 <p>Here is the puzzle. Enjoy! :)
-<img src="/Dateien/bild.php?data=98b781bf-8092-30303034434d2d31"/>
+
 </p>

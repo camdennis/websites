@@ -1,6 +1,6 @@
 ---
 title: "Conjunto Conjunto"
-date: 2025-04-09
+date: 2022-06-08
 weight: 11
 ---
 
@@ -18,5 +18,5 @@ Additionally, cells that appear in the same position relative to their box form 
 <p>That's it! Enjoy! :)
 You can play it <a href="https://tinyurl.com/conjuntoconjunto">here</a>.
 
-<img src="/Dateien/bild.php?data=9e519376-17846-3030304136452d31"/>
+
 </p>

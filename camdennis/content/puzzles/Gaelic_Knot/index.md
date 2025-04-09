@@ -1,6 +1,6 @@
 ---
 title: "Gaelic Knot"
-date: 2025-04-09
+date: 2020-09-27
 weight: 3
 ---
 
@@ -11,7 +11,7 @@ weight: 3
 </p><p>-Little Killer rules apply (digits outside the grid indicate the sum of the digits along the marked diagonal. Digits may repeat.
 </p>
 <p>Here is the puzzle. Enjoy! :)
-<img src="/Dateien/bild.php?data=786f7504-8221-3030303445592d31"/>
+
 </p>
 <p>
 <a href="https://f-puzzles.com/?id=y6z2kw6k">Play it on f-puzzles</a>

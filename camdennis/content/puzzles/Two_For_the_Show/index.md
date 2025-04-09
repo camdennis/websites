@@ -1,6 +1,6 @@
 ---
 title: "Two For the Show"
-date: 2025-04-09
+date: 2022-08-23
 weight: 5
 ---
 
@@ -20,5 +20,5 @@ Ordinary Sudoku Rules Apply. Additionally:
 <p>That's it! Enjoy! :)
 You can play it <a href="https://tinyurl.com/twofortheshow2">here</a>.
 
-<img src="/Dateien/bild.php?data=26472cc6-19137-3030304159452d31"/>
+
 </p>

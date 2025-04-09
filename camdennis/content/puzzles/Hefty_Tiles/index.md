@@ -1,6 +1,6 @@
 ---
 title: "Hefty Tiles"
-date: 2025-04-09
+date: 2022-06-15
 weight: 10
 ---
 
@@ -19,5 +19,5 @@ Ordinary Sudoku Rules Apply
 <p>That's it! Enjoy! :)
 You can play it <a href="https://tinyurl.com/heftytiles">here</a>.
 
-<img src="/Dateien/bild.php?data=dae55e57-17953-30303041384d2d31"/>
+
 </p>

@@ -1,6 +1,6 @@
 ---
 title: "Farfalle"
-date: 2025-04-09
+date: 2022-12-02
 weight: 3
 ---
 
@@ -21,5 +21,5 @@ Ordinary Sudoku Rules Apply. Additionally:
 You can play it <a href="https://tinyurl.com/farfallePuzzle">here</a>.
 Notice that when using the ctc link, one of the arrows is obscured by the thermometer.
 
-<img src="/Dateien/bild.php?data=8ca351d9-21243-30303043374b2d31"/>
+
 </p>

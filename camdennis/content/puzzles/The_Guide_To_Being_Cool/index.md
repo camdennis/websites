@@ -1,6 +1,6 @@
 ---
 title: "The Guide To Being Cool"
-date: 2025-04-09
+date: 2022-07-05
 weight: 7
 ---
 
@@ -14,5 +14,5 @@ Additionally, German Whisper rules apply: Adjacent digits along lines must diffe
 <p>That's it! Enjoy! :)
 You can play it <a href="https://tinyurl.com/theguidetobeingcool">here</a>.
 
-<img src="/Dateien/bild.php?data=4545e7f2-18188-3030304144442d31"/>
+
 </p>

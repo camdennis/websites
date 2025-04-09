@@ -1,6 +1,6 @@
 ---
 title: "276"
-date: 2025-04-09
+date: 2020-10-12
 weight: 20
 ---
 
@@ -17,5 +17,5 @@ weight: 20
 <p>Here is the puzzle. Enjoy! :)
 You can play it <a href="https://f-puzzles.com/?id=y2ksb8el">here</a>.
 
-<img src="/Dateien/bild.php?data=58988bb9-8345-30303034484a2d31"/>
+
 </p>

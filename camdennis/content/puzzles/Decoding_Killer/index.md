@@ -1,6 +1,6 @@
 ---
 title: "Decoding Killer"
-date: 2025-04-09
+date: 2020-10-26
 weight: 19
 ---
 
@@ -20,5 +20,5 @@ To decode a clue, subtract 26 from it as many times as you can without it becomi
 <p>Here is the puzzle. Enjoy! :)
 You can play it <a href="https://f-puzzles.com/?id=y53tqze9">here</a>.
 
-<img src="/Dateien/bild.php?data=aaab9e1e-8509-303030344c422d31"/>
+
 </p>

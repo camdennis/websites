@@ -1,6 +1,6 @@
 ---
 title: "Origami Sudoku"
-date: 2025-04-09
+date: 2020-09-24
 weight: 4
 ---
 
@@ -16,8 +16,8 @@ weight: 4
 </p>
 <p>
 To make things easier, here is how I folded the puzzle
-<img src="/Dateien/bild.php?data=ff138f2b-8185-3030303445462d31"/>
+
 </p>
 <p>Here is the puzzle as well as a sample of my handwriting. Enjoy! :)
-<img src="/Dateien/bild.php?data=a3b3a171-8194-3030303445462d32"/>
+
 </p>

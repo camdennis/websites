@@ -1,6 +1,6 @@
 ---
 title: "77 Givens"
-date: 2025-04-09
+date: 2021-11-19
 weight: 12
 ---
 
@@ -17,5 +17,5 @@ Clues outside the grid give the sum of snake cells in the corresponding row or c
 <p>That's it! Enjoy! :)
 You can play it <a href="https://git.io/J1wJP">here</a>.
 
-<img src="/Dateien/bild.php?data=13f8d166-14731-3030303842452d31"/>
+
 </p></p></p>

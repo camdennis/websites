@@ -1,6 +1,6 @@
 ---
 title: "Frowning Fish"
-date: 2025-04-09
+date: 2022-06-28
 weight: 9
 ---
 
@@ -23,5 +23,5 @@ Ordinary Sudoku Rules Apply. In addition:
 <p>That's it! Enjoy! :)
 You can play it <a href="https://tinyurl.com/frowningfish">here</a>.
 
-<img src="/Dateien/bild.php?data=d0e2e178-18145-30303041434b2d31"/>
+
 </p>

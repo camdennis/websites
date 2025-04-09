@@ -1,6 +1,6 @@
 ---
 title: "The Killer in the Mirror"
-date: 2025-04-09
+date: 2020-10-05
 weight: 1
 ---
 
@@ -22,5 +22,5 @@ This is really a very simple rule, but if you are confused by my explanation or 
 <p>Here is the puzzle. Enjoy! :)
 You can play it <a href="https://f-puzzles.com/?id=y4lufnfs">here</a>.
 
-<img src="/Dateien/bild.php?data=4c9cf2de-8288-3030303447452d31"/>
+
 </p>
