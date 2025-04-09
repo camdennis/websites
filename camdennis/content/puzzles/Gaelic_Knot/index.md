@@ -1,0 +1,20 @@
+---
+title: "Gaelic Knot"
+date: 2025-04-09
+weight: 3
+---
+<img src="featured.png" alt="Puzzle Image">
+
+
+<p>Every puzzle I have posted so far has been an attempt at making inventive new variants. This is just a partial killer-little killer puzzle.</p>
+<p>
+-Ordinary sudoku rules apply
+</p><p>-Partial killer rules apply (digits in cages cannot repeat and must sum to the total given by the cage)
+</p><p>-Little Killer rules apply (digits outside the grid indicate the sum of the digits along the marked diagonal. Digits may repeat.
+</p>
+<p>Here is the puzzle. Enjoy! :)
+<img src="/Dateien/bild.php?data=786f7504-8221-3030303445592d31"/>
+</p>
+<p>
+<a href="https://f-puzzles.com/?id=y6z2kw6k">Play it on f-puzzles</a>
+</p>
