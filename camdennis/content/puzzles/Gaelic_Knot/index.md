@@ -1,7 +1,7 @@
 ---
 title: "Gaelic Knot"
 date: 2020-09-27
-weight: 3
+weight: 23
 ---
 
 <p>Every puzzle I have posted so far has been an attempt at making inventive new variants. This is just a partial killer-little killer puzzle.</p>

@@ -1,7 +1,7 @@
 ---
 title: "Little Killer Princesses"
 date: 2020-06-18
-weight: 14
+weight: 34
 ---
 
 <p>This is a follow up little killer version of my previous puzzle. And my very first puzzle with no given digits! You can find the puzzle I made last week using this new constraint <a href="https://logic-masters.de/Raetselportal/Raetsel/zeigen.php?id=0003MN">here</a> </p>

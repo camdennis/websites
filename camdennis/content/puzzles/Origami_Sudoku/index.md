@@ -1,7 +1,7 @@
 ---
 title: "Origami Sudoku"
 date: 2020-09-24
-weight: 4
+weight: 24
 ---
 
 <p>I had an unsolved 1 star sudoku puzzle that I accidentally left folded up on my desk. I asked someone to scan it and email it to me but they didn't unfold it before doing so! Can you still solve this 1 star puzzle?</p>

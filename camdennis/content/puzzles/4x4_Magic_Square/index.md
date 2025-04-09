@@ -1,7 +1,7 @@
 ---
 title: "4x4 Magic Square"
 date: 2020-06-09
-weight: 16
+weight: 36
 ---
 
 <div style="font-size:20px">

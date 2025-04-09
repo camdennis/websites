@@ -1,7 +1,7 @@
 ---
 title: "The Killer in the Mirror"
 date: 2020-10-05
-weight: 1
+weight: 21
 ---
 
 <p>When I was young, I was afraid of dimly lit mirrors because I would always see faces in them. It turns out I'm not alone and there's science behind that. You can read about it <a href="https://www.noeton.org/Caputo-research.pdf">here</a>.

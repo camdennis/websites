@@ -1,1 +1,0 @@
-var modifiedDate = "Nov 24, 2050";

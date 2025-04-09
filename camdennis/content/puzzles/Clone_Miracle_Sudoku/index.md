@@ -1,7 +1,7 @@
 ---
 title: "Clone Miracle Sudoku"
 date: 2020-06-19
-weight: 13
+weight: 33
 ---
 
 <p> This puzzle is very clearly inspired by Mitchell Lee's famous Miracle Sudoku and is a bit of low hanging fruit.</p>

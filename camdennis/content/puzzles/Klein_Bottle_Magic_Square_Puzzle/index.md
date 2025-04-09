@@ -1,7 +1,7 @@
 ---
 title: "Klein Bottle Magic Square Puzzle"
 date: 2020-08-05
-weight: 10
+weight: 30
 ---
 
 <p>I am making this puzzle for my friend James. It's his birthday! This is the first in a series of puzzles that are played on a Klein Bottle. This is a little bit of an introduction to the concept, but be on the lookout for some really cool variants to come. If you like this idea, please let me know. </p>

@@ -1,7 +1,7 @@
 ---
 title: "Goldilocks Sudoku"
 date: 2020-06-09
-weight: 17
+weight: 37
 ---
 
 <div style="font-size:14px">

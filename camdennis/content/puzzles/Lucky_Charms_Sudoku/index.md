@@ -1,7 +1,7 @@
 ---
 title: "Lucky Charms Sudoku"
 date: 2020-07-26
-weight: 11
+weight: 31
 ---
 
 <p>This is the first in what may become a series of puzzles with a constraint I call lucky charms. This is based on one of my all time favorite sugary breakfast cereals from the US. This puzzle is rather easy but I hope that doesn't prevent you from enjoying it because I think you'll find that it has some really neat logic. If you like this variant, please let me know. </p>

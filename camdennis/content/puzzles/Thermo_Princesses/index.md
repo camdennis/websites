@@ -1,7 +1,7 @@
 ---
 title: "Thermo Princesses"
 date: 2020-07-12
-weight: 12
+weight: 32
 ---
 
 <p>This is the third in a series of puzzles with a constraint I call princesses. If you like this variant, feel free to check out the others. </p>

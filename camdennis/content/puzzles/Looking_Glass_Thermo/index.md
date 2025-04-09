@@ -1,7 +1,7 @@
 ---
 title: "Looking Glass Thermo"
 date: 2020-09-18
-weight: 5
+weight: 25
 ---
 
 <p>My previous puzzle with this theme seemed to go over pretty well, so I've made another. Again, this one is not too terribly difficult, but I think quite fun.</p>

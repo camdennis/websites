@@ -1,7 +1,7 @@
 ---
 title: "Through the Looking Glass"
 date: 2020-09-01
-weight: 6
+weight: 26
 ---
 
 <p>As far as I know, this is a novel variant with some very interesting logic.</p>

@@ -1,7 +1,7 @@
 ---
 title: "Basket Case"
 date: 2020-09-30
-weight: 2
+weight: 22
 ---
 
 <p>This puzzle is patterned after a square lattice or a plain weave.</p>

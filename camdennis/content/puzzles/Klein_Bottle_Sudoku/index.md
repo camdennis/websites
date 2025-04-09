@@ -1,7 +1,7 @@
 ---
 title: "Klein Bottle Sudoku"
 date: 2020-08-14
-weight: 9
+weight: 29
 ---
 
 <p>This is the second in a series of puzzles that are played on a Klein Bottle. If you like this idea, please let me know. </p>

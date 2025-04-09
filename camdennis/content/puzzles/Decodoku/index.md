@@ -1,7 +1,7 @@
 ---
 title: "Decodoku"
 date: 2020-08-24
-weight: 7
+weight: 27
 ---
 
 <p>This is an extremely easy coffee break puzzle, so it should be fun way to spend a few minutes.</p>
