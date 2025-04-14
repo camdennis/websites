@@ -6,5 +6,6 @@ weight: 33
 
 <p> This puzzle is very clearly inspired by Mitchell Lee's famous Miracle Sudoku and is a bit of low hanging fruit.</p>
 <p> The rules are the same as the miracle sudoku rules: Cells separated by a King's move or a Knight's move cannot contain the same digit. Orthogonally adjacent cells cannot contain consecutive digits. The gray regions are clones of one another. </p>
+<a href="https://app.crackingthecryptic.com/tgxa1hnxiw">try it here</a>
 
 <p>Enjoy!</p>

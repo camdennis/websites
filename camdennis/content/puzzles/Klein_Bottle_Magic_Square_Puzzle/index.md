@@ -8,6 +8,6 @@ weight: 30
 <p>Ordinary sudoku rules apply. In addition, colored squares are the centers of 3x3 magic squares. A magic square is a box that contains the numbers 1 through 9 exactly once and where the rows, columns, and main diagonals all sum to the same number. This puzzle also takes place on a klein bottle. The top and bottom of the grid are glued together--they obey periodic boundary conditions (see the example on the left). The left and right side are twisted and then glued together (see the right side). Let me know if anything is unclear in the comments :)
 
 </p>
-<p>Here is the puzzle. Enjoy! :)
-
+<p>
+<a href="https://app.crackingthecryptic.com/g5rragh8j0">try it here</a>
 </p>

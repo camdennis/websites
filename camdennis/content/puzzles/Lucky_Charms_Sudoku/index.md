@@ -11,6 +11,6 @@ All lucky charms are given (so negative constraints may be necessary).
 
 
 </p>
-<p>Here is the puzzle. Enjoy! :)
-
+<p>
+<a href="https://app.crackingthecryptic.com/bsugsq727k">try it here</a>
 </p>

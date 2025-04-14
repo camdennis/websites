@@ -21,7 +21,7 @@ Digits may not repeat on each of the main diagonals
 Ordinary Partial Killer Rules Apply
 </p>
 <p>Here is the puzzle. Enjoy! :)
-You can play it <a href="https://git.io/JLNcT">here</a>.
+<a href="https://app.crackingthecryptic.com/3j97qw81js">try it here</a>
 
 Please let me know if you figured this out with or without using this technique! For added cred, do it both ways ;)
 

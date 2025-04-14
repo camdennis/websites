@@ -20,8 +20,9 @@ Ordinary sudoku rules apply. In addition, the number in a box tells you the mini
 Enjoy!
 </div>
 <div style="font-size:16px">
-<strong>The puzzle:</strong>
-</div>
+<a href="https://cracking-the-cryptic.web.app/sudoku/MFRjh3MF9t">try it here</a>
+
+Watch a solve from Mark Goodliffe <a href="https://www.youtube.com/watch?v=wcbZsD0AaJ4&ab_channel=CrackingTheCryptic">here</a></div>
 <div style="clear:both;text-align:center">
 
 </div>

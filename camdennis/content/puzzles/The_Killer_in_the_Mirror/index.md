@@ -20,7 +20,9 @@ This puzzle is inspired by that phenomenon.</p>
 This is really a very simple rule, but if you are confused by my explanation or have clarifying questions, please let me know.
 </p>
 <p>Here is the puzzle. Enjoy! :)
-You can play it <a href="https://f-puzzles.com/?id=y4lufnfs">here</a>.
+<a href="https://app.crackingthecryptic.com/9h381e1v83">try it here</a>
+
+Watch a solve from Mark Goodliffe <a href="https://www.youtube.com/watch?v=APOq9PUMMg4&t=129s&ab_channel=CrackingTheCryptic">here</a>
 
 
 </p>

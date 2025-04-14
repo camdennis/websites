@@ -19,7 +19,7 @@ Ordinary Sudoku Rules Apply
 Ordinary Killer Rules Apply
 </p>
 <p>Here is the puzzle. Enjoy! :)
-You can play it <a href="https://f-puzzles.com/?id=y5x43ct3">here</a>.
+You can play it <a href="https://sudokupad.app/slwgbov16y">here</a>.
 
 Please let me know if you figured this out with or without using this technique! For added cred, do it both ways ;)
 

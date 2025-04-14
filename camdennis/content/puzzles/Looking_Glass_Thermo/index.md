@@ -17,6 +17,6 @@ weight: 25
 <p>
 This is really a very simple rule, but if you are confused by my explanation or have clarifying questions, please let me know.
 </p>
-<p>Here is the puzzle. Enjoy! :)
-
+<p>
+<a href="https://app.crackingthecryptic.com/ldcecfpfqc">try it here</a>
 </p>

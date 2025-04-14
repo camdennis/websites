@@ -8,5 +8,7 @@ weight: 34
 <p>Ordinary sudoku rules apply. In addition, the number in a box tells you the minimum diagonal distance between another of the same number. In the below example, I have marked the boxes that cannot be 3's in magenta. You'll notice that 1's have no additional constraint and 9's will act like queens. Every other number will behave like something inbetween.
 In addition, ordinary little killer rules apply: the marked diagonals have the sum shown and digits may repeat in these diagonals.</p>
 
-<p>Here is the puzzle. Enjoy!<p>
+<p>
+<a href="https://app.crackingthecryptic.com/g5rragh8j0">try it here</a>
+<p>
 </p></p>

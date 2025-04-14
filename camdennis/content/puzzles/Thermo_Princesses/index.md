@@ -12,6 +12,6 @@ weight: 32
 In addition, thermo-sudoku rules apply: numbers in thermometers must increase starting at the bulb end. It was suggested to me (by RockyRoer) that using the princesses constraint would be slightly nicer if the grid had a light checkerboard pattern. This is for convenience and is not part of the puzzle clues.</p>
 <p>Here is the puzzle. Enjoy!
 
-
+<a href="https://sudokupad.app/kd2lldm8xc">try it here</a>
 
 <p></p></p>

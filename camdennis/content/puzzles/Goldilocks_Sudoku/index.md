@@ -17,7 +17,7 @@ After placing your chosen number in the central box, normal sudoku rules apply.
 Enjoy!
 </div>
 <div style="font-size:16px">
-<strong>The puzzle:</strong>
+<a href="https://cracking-the-cryptic.web.app/sudoku/nn468RjnbB">try it here</a>Watch a solve from Mark Goodliffe <a href="https://www.youtube.com/watch?v=X3NqwZ8QBxI&ab_channel=CrackingTheCryptic">here</a>
 </div>
 <div style="clear:both;text-align:center">
 

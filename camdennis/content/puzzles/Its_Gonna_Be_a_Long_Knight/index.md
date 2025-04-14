@@ -20,8 +20,7 @@ Ordinary Killer Rules Apply
 <p>
 Digits may not repeat along the indicated diagonals.
 </p>
-<p>Here is the puzzle. Enjoy! :)
-You can play it <a href="https://git.io/Jt1fs">here</a>.
+<p><a href="https://app.crackingthecryptic.com/qnmh240zpb">try it here</a>
 
-
+Watch a solve from Simon Anthony <a href="https://www.youtube.com/watch?v=T1WBjdIaJYg">here</a>
 </p>

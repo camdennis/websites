@@ -18,8 +18,8 @@ Ordinary Sudoku Rules Apply. Additionally:
 3. Knights Move Rules Apply: Digits must not repeat in cells that are a chess knight's move apart.
 </p>
 <p>That's it! Enjoy! :)
-You can play it <a href="https://tinyurl.com/farfallePuzzle">here</a>.
-Notice that when using the ctc link, one of the arrows is obscured by the thermometer.
+<a href="https://app.crackingthecryptic.com/Gg8MND3M98">try it here</a>
 
+Watch a solve from Mark Goodliffe <a href="https://www.youtube.com/watch?v=VKUVE6KJHMY">here</a>
 
 </p>
