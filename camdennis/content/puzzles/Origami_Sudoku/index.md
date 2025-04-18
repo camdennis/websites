@@ -6,6 +6,11 @@ weight: 24
 
 <p>I had an unsolved 1 star sudoku puzzle that I accidentally left folded up on my desk. I asked someone to scan it and email it to me but they didn't unfold it before doing so! Can you still solve this 1 star puzzle?</p>
 <p>
+
+<p align="center">
+  <img src="rules.png" alt="Rules for the puzzle" width="400"/>
+</p>
+
 -Ordinary sudoku rules apply
 </p>
 <p>

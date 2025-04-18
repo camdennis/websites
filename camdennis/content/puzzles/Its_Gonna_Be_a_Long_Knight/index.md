@@ -6,7 +6,9 @@ weight: 15
 
 <p>The proper name for this puzzle's constraint probably has something to do with taxicab numbers, but I prefer "long knight." Essentially, this is a knight's move constraint with an extra cell. In the explanation image below, none of the green cells can be a 7.</p>
 <p>
-
+<p align="center">
+  <img src="rules.png" alt="Rules for the puzzle" width="400"/>
+</p>
 </p>
 <p>
 Ordinary Sudoku Rules Apply

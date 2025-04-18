@@ -14,5 +14,5 @@ weight: 22
 
 </p>
 <p>
-<a href="https://f-puzzles.com/?id=y3y7pemw">Play it on f-puzzles</a>
+<a href="https://sudokupad.app/xypurrowml">Play it here.</a>
 </p>

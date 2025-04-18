@@ -12,7 +12,7 @@ Ordinary Sudoku Rules Apply
 Ordinary Killer Rules Apply
 </p>
 <p>That's it! Enjoy! :)
-You can play it <a href="https://git.io/Jtppd">here</a>.
+You can play it <a href="https://sudokupad.app/4aepv8vwou">here</a>.
 
 
 </p>

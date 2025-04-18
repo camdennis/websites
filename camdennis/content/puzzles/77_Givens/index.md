@@ -15,7 +15,7 @@ In addition, a snake of orthogonally connected cells goes from the upper left gr
 Clues outside the grid give the sum of snake cells in the corresponding row or column.
 </p>
 <p>That's it! Enjoy! :)
-You can play it <a href="https://git.io/J1wJP">here</a>.
+You can play it <a href="https://sudokupad.app/7tk343vo35">here</a>.
 
 
 </p></p></p>

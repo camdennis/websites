@@ -14,4 +14,4 @@ Finding the (English) decoded message is necessary to solve the puzzle.
 Note: If you don't feel like converting numbers to letters, use this online <a href="https://www.boxentriq.com/code-breaking/numbers-to-letters">tool</a>.
 
 </p>
-<a href="https://app.crackingthecryptic.com/tgxa1hnxiw">try it here</a>
+<a href="https://sudokupad.app/e8rl1pzyo6">try it here</a>

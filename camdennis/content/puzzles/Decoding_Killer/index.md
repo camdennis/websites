@@ -18,7 +18,7 @@ The killer cages are clues that are needed to solve the puzzle. Some (but not ne
 To decode a clue, subtract 26 from it as many times as you can without it becoming negative and then convert that number to it's alphabetical character (1=a, 2=b, 3=c,...)
 
 <p>Here is the puzzle. Enjoy! :)
-You can play it <a href="https://f-puzzles.com/?id=y53tqze9">here</a>.
+You can play it <a href="https://sudokupad.app/s7bu4dyfl6">here</a>.
 
 
 </p>

@@ -15,7 +15,7 @@ weight: 20
 -Little Killer rules apply. The digits in the indicated diagonal sum to the number indicated. Numbers may repeat along each diagonal.
 </p>
 <p>Here is the puzzle. Enjoy! :)
-You can play it <a href="https://f-puzzles.com/?id=y2ksb8el">here</a>.
+You can play it <a href="https://sudokupad.app/jk3mahs8ct">here</a>.
 
 
 </p>

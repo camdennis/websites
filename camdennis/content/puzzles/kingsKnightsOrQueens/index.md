@@ -9,4 +9,4 @@ NOTE: Because this puzzle has multiple solutions, the answer check function will
 
 <a href="https://cracking-the-cryptic.web.app/sudoku/Rn6FtF2n9j">try it here</a>
 
-Watch a solve from Mark Goodliffe <a href="https://www.youtube.com/watch?v=3HC6bb4s34M&t=492s&ab_channel=CrackingTheCryptic">here</a>
+Watch multiple solves of this puzzle from Mark Goodliffe <a href="https://www.youtube.com/watch?v=h9wQ73F8Cqc">here</a> and <a href="https://www.youtube.com/watch?v=3HC6bb4s34M&t=492s&ab_channel=CrackingTheCryptic">here</a>
