@@ -24,6 +24,16 @@
   weight = 40
 
 [[main]]
+  name = "CV"
+  url = "files/RCameronDennisCV.pdf"
+  weight = 45
+
+[[main]]
+  name = "Resume"
+  url = "files/Resume.pdf"
+  weight = 45
+
+[[main]]
   name = "Puzzles"
   url = "landing/"
   weight = 50
